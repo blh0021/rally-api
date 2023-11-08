@@ -1,6 +1,6 @@
 {
   "name": "rally-api-nodejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -11,5 +11,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/blh0021/rally-api"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
   }
 }
