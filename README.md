@@ -5,7 +5,7 @@ Example
 -------
 
 ```
-const Rally = require('rally-api')
+const Rally = require('rally-api-nodejs')
 
 const APIKEY = "<somekey>"
 
